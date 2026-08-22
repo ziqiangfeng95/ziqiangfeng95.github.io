@@ -1,7 +1,6 @@
 {% assign publication = include.publication %}
-<article class="publication-item">
-  <div class="publication-year">{{ publication.year }}</div>
-  <div class="publication-copy">
+<li class="publication-item">
+  <article class="publication-copy">
     <div class="publication-kicker">
       <span>{{ publication.type }}</span>
       {% if publication.featured %}<span class="featured">Featured</span>{% endif %}
@@ -13,14 +12,13 @@
         {{ publication.title }}
       {% endif %}
     </h3>
-    <p class="publication-authors">{{ publication.authors | replace: 'Ziqiang Feng', '<strong>Ziqiang Feng</strong>' }}</p>
-    <p class="publication-venue">{{ publication.venue }}</p>
-    {% if publication.links %}
-      <ul class="publication-links">
-        {% for link in publication.links %}
-          <li><a href="{{ link.url | escape }}" target="_blank" rel="noopener noreferrer">{{ link.label }}</a></li>
-        {% endfor %}
-      </ul>
+    {% if publication.authors %}
+      <div class="publication-authors">
+        {{ publication.authors | markdownify }}
+      </div>
     {% endif %}
-  </div>
-</article>
+    <p class="publication-meta">
+      <span class="publication-venue">{{ publication.venue }}</span>{% for link in publication.links %}<span aria-hidden="true"> · </span><a href="{{ link.url | escape }}" target="_blank" rel="noopener noreferrer">{{ link.label }}</a>{% endfor %}
+    </p>
+  </article>
+</li>

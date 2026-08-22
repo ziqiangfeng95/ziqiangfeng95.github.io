@@ -42,11 +42,11 @@ layout: default
     <div class="section-content">
       <p class="section-intro">Publications and preprints, listed in reverse chronological order.</p>
       {% assign sorted_publications = site.publications | sort: 'date' | reverse %}
-      <div class="publication-list">
+      <ul class="publication-list">
         {% for publication in sorted_publications %}
           {% include publication.html publication=publication %}
         {% endfor %}
-      </div>
+      </ul>
     </div>
   </section>
 

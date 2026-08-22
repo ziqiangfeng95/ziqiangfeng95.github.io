@@ -3,13 +3,10 @@ title: "Accessibility and central integrability in the absence of periodic point
 date: 2025-11-02
 year: 2025
 type: "Preprint"
-authors: "Ziqiang Feng and Raúl Ures"
+authors: "Joint with [Raúl Ures](https://math.sustech.edu.cn/c/uresraul)"
 venue: "arXiv:2511.00853"
 primary_url: "https://arxiv.org/abs/2511.00853"
 links:
-  - label: "arXiv"
-    url: "https://arxiv.org/abs/2511.00853"
   - label: "PDF"
     url: "https://arxiv.org/pdf/2511.00853"
 ---
-
