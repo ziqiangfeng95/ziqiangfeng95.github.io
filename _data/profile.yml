@@ -1,15 +1,12 @@
 name: "Ziqiang Feng"
 name_native: "封子强"
 initials: "ZF"
-# image: "/assets/images/profile.jpg"
-# role: "Dynamical Systems · Ergodic Theory"
-# appointment: "Postdoctoral Fellow, 2024–2026"
 affiliation: "Beijing International Center for Mathematical Research (BICMR), Peking University"
 affiliation_short: "BICMR · Peking University"
 affiliation_url: "https://bicmr.pku.edu.cn/"
 location: "Beijing, China"
 email: "zqfeng AT pku DOT edu DOT cn"
-# github: "Feng104"
+
 
 links:
   - label: "Email"
@@ -20,13 +17,7 @@ links:
 navigation:
   - label: "About"
     anchor: "about"
-  #- label: "News"
-  #  anchor: "news"
-  # - label: "Research"
-  #  anchor: "research"
   - label: "Publications"
     anchor: "publications"
-  #- label: "Talks"
-  #  anchor: "talks"
   - label: "Teaching"
     anchor: "teaching"
