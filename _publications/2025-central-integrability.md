@@ -5,7 +5,7 @@ year: 2025
 type: "Preprint"
 authors: "Joint with [Raúl Ures](https://math.sustech.edu.cn/c/uresraul)"
 venue: "arXiv:2511.00853"
-primary_url: "https://arxiv.org/abs/2511.00853"
+
 links:
   - label: "PDF"
     url: "https://arxiv.org/pdf/2511.00853"
