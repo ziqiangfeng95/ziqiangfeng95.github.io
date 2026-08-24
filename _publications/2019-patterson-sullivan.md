@@ -5,7 +5,7 @@ year: 2019
 type: "Journal article"
 authors: "Joint with Fei Liu and Fang Wang"
 venue: "Acta Mathematica Sinica, English Series 35 (2019), 1937–1944"
-primary_url: "https://doi.org/10.1007/s10114-019-8558-3"
+
 links:
   - label: "DOI"
     url: "https://doi.org/10.1007/s10114-019-8558-3"
