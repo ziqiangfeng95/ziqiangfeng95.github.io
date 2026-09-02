@@ -6,11 +6,11 @@ hide_site_header: true
 
 <div class="site-shell paper simple-page" markdown="1">
 
-<h2 align="center">## 高等数学A（一） Advanced Mathematics A (Part I), Fall 2026</h2>
+<h2 align="center">高等数学A（一） Advanced Mathematics A (Part I), Fall 2026</h2>
 
 This is a placeholder course page. Course information, lecture notes, assignments, and other materials can be added here.
 
-## Instructor
+### Instructor
 
 封子强 FENG Ziqiang
 
@@ -18,7 +18,7 @@ E-mail: zqfeng@pku.edu.cn
 
 Office: BICMR - Quan 34 北京国际数学研究中心-全斋34
 
-## Course Information
+### Course Information
 
 Class No: 2026级1班
 
