@@ -21,7 +21,7 @@ Through systematic study and practice, students should gradually develop mathema
 
 E-mail: [zqfeng@pku.edu.cn](mailto:zqfeng@pku.edu.cn)
 
-Office: BICMR - Quan 34 北京国际数学研究中心-全斋34
+Office: BICMR-Quan 34 北京国际数学研究中心-全斋34
 
 ### Course Information
 
