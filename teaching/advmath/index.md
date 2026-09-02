@@ -37,6 +37,8 @@ E-mail: [zqfeng@pku.edu.cn](mailto:zqfeng@pku.edu.cn)
 
 Office: BICMR-Quan 34 北京国际数学研究中心-全斋34
 
+Office hour: 1pm-2pm Tuesday (By appointment)
+
 ### Course Information
 
 Class No: 2026级1班
