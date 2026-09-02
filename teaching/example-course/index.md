@@ -6,7 +6,7 @@ hide_site_header: true
 
 <div class="site-shell paper simple-page" markdown="1">
 
-# 高等数学A（一） Advanced Mathematics A (Part I), Fall 2026
+<div align="center">## 高等数学A（一） Advanced Mathematics A (Part I), Fall 2026</div>
 
 This is a placeholder course page. Course information, lecture notes, assignments, and other materials can be added here.
 
