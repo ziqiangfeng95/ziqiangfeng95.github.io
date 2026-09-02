@@ -102,3 +102,82 @@ assets/css/main.css      视觉样式（通常无需修改）
 _layouts/                页面结构（通常无需修改）
 .github/workflows/       自动发布（通常无需修改）
 ```
+
+
+## 使用课程专属 class
+先把课程页中的：
+<div class="site-shell paper simple-page" markdown="1">
+改为：
+<div class="site-shell paper simple-page course-page" markdown="1">
+然后在 assets/css/main.css 末尾添加仅以 .course-page 开头的样式：
+/* Only affects Advanced Mathematics A (Part I) */
+.course-page {
+  font-family: "Times New Roman", "Songti SC", "Noto Serif SC", serif;
+  font-size: 17px;
+  line-height: 1.75;
+}
+
+.course-page > h2 {
+  margin-bottom: 1.5rem;
+  font-family: "Times New Roman", "Songti SC", serif;
+  font-size: 1.8rem;
+  line-height: 1.35;
+  text-align: center;
+}
+
+.course-page h3 {
+  margin-top: 1.6rem;
+  margin-bottom: 0.6rem;
+  font-size: 1.2rem;
+}
+
+.course-page a {
+  color: #246b58;
+  text-underline-offset: 0.18em;
+}
+
+.course-page a:hover {
+  color: #174b3e;
+}
+因为所有选择器都以 .course-page 开头，而主页没有这个 class，所以 Hero、About、Publications、Teaching 和主页字体都不会改变。
+常用调整：
+.course-page {
+  font-size: 16px; /* 正文大小 */
+}
+
+.course-page > h2 {
+  font-size: 28px; /* 页面标题 */
+}
+
+.course-page h3 {
+  font-size: 20px; /* Instructor、Course Information 等小标题 */
+}
+添加 PDF
+建议在仓库中新建：
+assets/pdfs/00132511/
+例如上传：
+assets/pdfs/00132511/syllabus.pdf
+assets/pdfs/00132511/lecture-01.pdf
+assets/pdfs/00132511/homework-01.pdf
+然后直接在课程 Markdown 中写：
+### Course Materials
+
+- [Course Syllabus (PDF)]({{ '/assets/pdfs/00132511/syllabus.pdf' | relative_url }})
+- [Lecture 1 Notes (PDF)]({{ '/assets/pdfs/00132511/lecture-01.pdf' | relative_url }})
+- [Homework 1 (PDF)]({{ '/assets/pdfs/00132511/homework-01.pdf' | relative_url }})
+如果希望点击后在新标签页打开，使用 HTML：
+<a href="{{ '/assets/pdfs/00132511/lecture-01.pdf' | relative_url }}"
+   target="_blank"
+   rel="noopener noreferrer">
+  Lecture 1 Notes (PDF)
+</a>
+文件名建议只使用小写英文、数字和连字符，避免空格，例如：
+lecture-01.pdf
+midterm-review.pdf
+homework-02.pdf
+最快捷的 GitHub 网页操作流程
+1. 在仓库打开 assets，创建并上传 pdfs/00132511/*.pdf。
+2. 编辑 teaching/example-course/index.md，加入 PDF 链接及 course-page class。
+3. 编辑 assets/css/main.css，追加 .course-page 样式。
+4. Commit 到 main。
+5. 等待 GitHub Pages 自动部署约一分钟。
