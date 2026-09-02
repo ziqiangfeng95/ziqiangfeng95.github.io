@@ -29,11 +29,19 @@ Class No: 2026级1班
 
 Location: 二教307
 
-Time: 8am - 10am Tuesday; 10am - 12pm Thursday
+Time: 8am-10am Tuesday; 10am-12pm Thursday
 
-Mid-term Exam: 10am - 12pm Thursday, 5 November, 2026
+Mid-term Exam: 10am-12pm Thursday, 5 November, 2026
 
-Final Exam: 8am - 10am Thursday, 31 December, 2026
+Final Exam: 8am-10am Thursday, 31 December, 2026
+
+Total grade = homework*20% + mid exam*30% + final exam*50%
+
+<a href="{{ '/assets/pdfs/advmath/syllabus.docx' | relative_url }}"
+   target="_blank"
+   rel="noopener noreferrer">
+  Syllabus
+</a>
 
 ### Things to keep in mind
 
@@ -43,10 +51,6 @@ Final Exam: 8am - 10am Thursday, 31 December, 2026
 - **Do not rely solely on lectures when preparing for exams.** When studying, pay attention to the syllabus, textbook, assigned materials, and course learning objectives rather than trying to predict an exam solely from lecture content.
 - **Study consistently throughout the semester.** Regular reading, review, practice, and independent study are expected.
 
-<a href="{{ '/assets/pdfs/advmath/syllabus.docx' | relative_url }}"
-   target="_blank"
-   rel="noopener noreferrer">
-  Syllabus
-</a>
+
 
 </div>
