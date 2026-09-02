@@ -4,7 +4,7 @@ permalink: /00132511/
 hide_site_header: true
 ---
 
-<div class="site-shell paper simple-page" markdown="1">
+<div class="site-shell paper simple-page course-page" markdown="1">
 
 <h2 align="center">高等数学A（一） Advanced Mathematics A (Part I), Fall 2026</h2>
 
@@ -42,5 +42,11 @@ Final Exam: 8am - 10am Thursday, 31 December, 2026
 - **Lectures are not an exam checklist.** Lectures and exams follow the same course syllabus and learning objectives, but they do not necessarily cover exactly the same material. Some material discussed in class may not appear on an exam, and some material on an exam may not have been explicitly discussed in class.
 - **Do not rely solely on lectures when preparing for exams.** When studying, pay attention to the syllabus, textbook, assigned materials, and course learning objectives rather than trying to predict an exam solely from lecture content.
 - **Study consistently throughout the semester.** Regular reading, review, practice, and independent study are expected.
+
+<a href="{{ '/assets/pdfs/advmath/syllabus.docx' | relative_url }}"
+   target="_blank"
+   rel="noopener noreferrer">
+  Syllabus
+</a>
 
 </div>
