@@ -359,8 +359,11 @@ ol {
   line-height: 1.2;
 }
 
-.simple-page p {
-  max-width: 42rem;
+.simple-page >p,
+.course-page > ul,
+.course-page > ol {
+  width: 100%;
+  max-width: none;
 }
 
 .site-footer {
