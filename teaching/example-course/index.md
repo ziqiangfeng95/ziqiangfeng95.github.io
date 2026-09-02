@@ -1,6 +1,6 @@
 ---
-title: "Example Course"
-permalink: /example-course/
+title: "高等数学A（一） Advanced 00132511 "
+permalink: /00132511/
 hide_site_header: true
 ---
 
