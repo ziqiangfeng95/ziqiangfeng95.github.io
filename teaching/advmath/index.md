@@ -4,7 +4,7 @@ permalink: /00132511/
 hide_site_header: true
 ---
 
-<div class="site-shell paper simple-page course-page" markdown="1">
+<div class="site-shell paper simple-page" markdown="1">
 
 <h2 align="center">高等数学A（一） Advanced Mathematics A (Part I), Fall 2026</h2>
 
