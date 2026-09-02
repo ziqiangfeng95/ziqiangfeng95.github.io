@@ -37,7 +37,7 @@ Final Exam: 8am-10am Thursday, 31 December, 2026
 
 Total grade = homework$\times$20% + mid-term exam$\times$30% + final exam $\times$ 50%
 
-<a href="{{ '/assets/pdfs/advmath/syllabus.docx' | relative_url }}"
+<a href="{{ '/assets/pdfs/advmath/Syllabus.pdf' | relative_url }}"
    target="_blank"
    rel="noopener noreferrer">
   Syllabus
