@@ -4,6 +4,20 @@ permalink: /00132511/
 hide_site_header: true
 ---
 
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']],
+    processEscapes: true
+  }
+};
+</script>
+
+<script defer
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
 <div class="site-shell paper simple-page" markdown="1">
 
 <h2 align="center">高等数学A（一） Advanced Mathematics A (Part I), Fall 2026</h2>
