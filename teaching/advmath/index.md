@@ -59,6 +59,12 @@ Total grade = homework $\times$20% + mid-term exam $\times$30% + final exam $\ti
   Syllabus
 </a>
 
+### References
+
+- My Lecture notes, updated by ...
+- Textbook: [高等数学（第三版）（上册），李忠 周建莹](https://opac.lib.pku.edu.cn/searchDetail/tU486WPRECPHGJ53JGuUKQ%3D%3D)
+
+
 ### Things to keep in mind
 
 - **Be an independent learner.** Independent learning is an important part of university education. Take responsibility for your own learning and do not rely solely on what is covered in class.
