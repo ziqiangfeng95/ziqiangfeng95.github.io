@@ -67,12 +67,15 @@ Total grade = homework $\times$20% + mid-term exam $\times$30% + final exam $\ti
 - [xyt](https://darkoxie.github.io) and [ztf](https://archaeus13.github.io/teaching/2025b/index.html) are also good to read.
   
 Some additional references:
-
 - [Thomas' Calculus, Global Edition](https://opac.lib.pku.edu.cn/searchDetail/b%2Bgel9W6PSH6eKKfblKLwg%3D%3D)
 - [数学分析（上册），杨家忠 梅加强 楼红卫](https://opac.lib.pku.edu.cn/searchDetail/4lsF5iTEaqYzRPEApEtQag%3D%3D)
 - [数学分析习题课讲义，谢惠民 恽自求 易法槐](https://opac.lib.pku.edu.cn/searchDetail/0RfBEYadPgroEvUhwoeMPQ%3D%3D)
 - [数学分析教程，常庚哲 史济怀](https://opac.lib.pku.edu.cn/searchDetail/mIFzlcQIrg%2FY8FTzAoYV4w%3D%3D)
-
+<!--
+- [数学分析习题集，吉米多维奇](https://opac.lib.pku.edu.cn/searchDetail/X7RpALCNMfVoAvhNa1qZbg%3D%3D) （大量计算，证明偏少）
+- [数学分析原理，Rudin](https://opac.lib.pku.edu.cn/searchDetail/8pebQUY1CCQO0MCn6kZXYA%3D%3D) (习题中藏了一些定理)
+- [数学分析中的典型问题与方法，裴礼文](https://opac.lib.pku.edu.cn/searchDetail/z8C2En20gSyv1RjOaI1sJQ%3D%3D) (考研专用)
+-->
 
 ### Things to keep in mind
 
