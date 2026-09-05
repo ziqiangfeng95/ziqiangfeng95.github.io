@@ -181,3 +181,28 @@ homework-02.pdf
 3. 编辑 assets/css/main.css，追加 .course-page 样式。
 4. Commit 到 main。
 5. 等待 GitHub Pages 自动部署约一分钟。
+
+
+
+### 最推荐使用 Jekyll/Liquid 的注释：
+{% comment %}
+Temporarily hidden section
+This paragraph will not appear on the rendered page.
+
+- Item one
+- Item two
+
+$$
+\int_0^1 x^2\,dx=\frac13
+$$
+
+{% endcomment %}
+提交后，这一整段不会进入最终生成的网页。普通 Markdown、列表、HTML、数学公式和链接都可以放在里面。
+
+如果注释的是 front matter，需要逐行使用 YAML 的 #：
+```---
+title: "00132511"
+permalink: /00132511/
+# hide_site_header: true
+---'''
+不要注释 ---，也不要轻易注释 permalink，否则课程网址可能改变。
