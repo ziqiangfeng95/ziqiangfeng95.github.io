@@ -89,6 +89,12 @@ Some additional references:
   
 {% endcomment %}
 
+### Homework
+Please make arrangements ahead of time if you expect to miss a homework deadline. You are encouraged to discuss homework‑related problems with classmates, including approaches to solving various types of questions. That said, all written solutions must be your own work.
+
+Weekly deadline: 18:40pm Wednesday
+
+
 ### Things to keep in mind
 
 - **Be an independent learner.** Independent learning is an important part of university education. Take responsibility for your own learning and do not rely solely on what is covered in class.
