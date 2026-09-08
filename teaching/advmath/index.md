@@ -94,6 +94,9 @@ Please make arrangements ahead of time if you expect to miss a homework deadline
 
 Weekly deadline: 18:40pm Wednesday
 
+The homework below is all taken from the lecture notes.
+
+- Sep 8: Exercise 1.1: 2/3/4/14/S3. Exercise 1.2: 1/3/9/10/S2.
 
 ### Things to keep in mind
 
