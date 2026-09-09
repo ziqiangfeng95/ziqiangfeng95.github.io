@@ -60,9 +60,9 @@ Total grade = homework $\times$20% + mid-term exam $\times$30% + final exam $\ti
 </a>
 
 Recitation: 18:40pm-20:30pm Wednesday
-- 一教303, {% comment %}2401110037{% endcomment %} 2401110037@stu.pku.edu.cn, 张宇生
-- 二教412, {% comment %}2401110051{% endcomment %} wangxiuyuan@stu.pku.edu.cn, 王修远
-- 二教414, {% comment %}2601110014{% endcomment %} liangxuanhao26@stu.pku.edu.cn,  梁轩豪
+1. 一教303, {% comment %}2401110037{% endcomment %} 2401110037@stu.pku.edu.cn, 张宇生
+2. 二教412, {% comment %}2401110051{% endcomment %} wangxiuyuan@stu.pku.edu.cn, 王修远
+3. 二教414, {% comment %}2601110014{% endcomment %} liangxuanhao26@stu.pku.edu.cn,  梁轩豪
 
 
 ### References
