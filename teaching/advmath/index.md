@@ -98,6 +98,7 @@ The homework below is all taken from the lecture notes.
 
 - Sep 8: Exercise 1.1: 2/3/4/14/S3. Exercise 1.2: 1/3/9/10/S2.
 - Sep 10: Exercise 1.3: 1/5/6/7/9/11/16/17/20/S2.
+- Sep 15: Exercise 1.4: 4/5/11/12/15/17/18/S6.
 
 ### Things to keep in mind
 
