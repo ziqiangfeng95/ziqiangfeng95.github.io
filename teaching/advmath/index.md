@@ -101,6 +101,7 @@ The homework below is all taken from the lecture notes.
 - Sep 15: Exercise 1.4: 4/5/11/12/15/17/18/S6.
 - Sep 17: Exercise 1.5: 3/4/10/17/S1/S3/S10. Exercise 1.6: 3/4/17. Reading task: Section 1.6.
 - Sep 22: Exercise 2.1: 3/8/9/11/14/15/16/19/S2/S12.
+- Sep 24: Exercise 2.2: 1/3/4/5/8/9/15/19/22/S3.
 
 ### Things to keep in mind
 
