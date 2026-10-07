@@ -67,11 +67,11 @@ Recitation: 18:40pm-20:30pm Wednesday
 
 ### References
 
-- My <a href="{{ '/assets/pdfs/advmath/adv-math-I.pdf' | relative_url }}"
+- My <a href="{{ '/assets/pdfs/advmath/adv-math-I-1007.pdf' | relative_url }}"
    target="_blank"
    rel="noopener noreferrer">
   Lecture Notes
-</a>, updated on Sep 17, 2026. Added: Example 1.17,Example 1.24, the beginning of section 1.4,Example 1.32; Note: Chapter 2 is still revising...
+</a>, updated on Sep 17, 2026. Chapter 3 is added.
 - Textbook: [高等数学（第三版）上册，李忠 周建莹](https://opac.lib.pku.edu.cn/searchDetail/tU486WPRECPHGJ53JGuUKQ%3D%3D)
 - [高等数学精选习题解析，林源渠](https://opac.lib.pku.edu.cn/searchDetail/mismuoHfOfkZriKca4%2BeFQ%3D%3D)
 - [xyt](https://darkoxie.github.io) and [ztf](https://archaeus13.github.io/teaching/2025b/index.html) are also good to read.
