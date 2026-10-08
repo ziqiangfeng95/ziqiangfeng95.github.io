@@ -103,6 +103,7 @@ The homework below is all taken from the lecture notes.
 - Sep 22: Exercise 2.1: 3/8/9/11/14/15/16/19/S2/S12.
 - Sep 24: Exercise 2.2: 1/3/4/5/8/9/15/19/22/S3.
 - Sep 29: Exercise 2.3: 9/12/13/16/17/19/20/23/S5/S8.
+- Oct 8: Exercise 2.4: 2/4/8/10/13/14/21/S2/S6/S12. Optional set (no grade): S1/S3/S10/S11.
 
 ### Things to keep in mind
 
