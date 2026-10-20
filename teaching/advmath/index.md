@@ -106,6 +106,7 @@ The homework below is all taken from the lecture notes.
 - Oct 8: Exercise 2.4: 2/4/8/10/13/14/21/S2/S6/S12. Optional set (no grade): S1/S3/S10/S11.
 - Oct 13: Exercise 2.5: 3/6/9/13/15/18/21/S1/S9/S11.
 - Oct 15: Exercise 2.6: 15/19/21/S6/S10; Exercise 2.7: 9/16/17/23/S3/S11.
+- Oct 20: Exercise 3.1: 1/2/3/6/14/16/18/S1/S5/S9.
 
 ### Things to keep in mind
 
