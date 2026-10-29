@@ -47,7 +47,11 @@ Location: 二教307
 
 Time: 8am-10am Tuesday; 10am-12pm Thursday
 
-Mid-term Exam: 10：10am-12：10pm Thursday, 5 November, 2026
+Mid-term Exam: 10：10am-12：10pm Thursday, 5 November, 2026  <a href="{{ '/assets/pdfs/advmath/期中考场安排.xlsx' | relative_url }}"
+   target="_blank"
+   rel="noopener noreferrer">
+  期中考场安排
+</a>
 
 Final Exam: 8:30am-10:30am Thursday, 31 December, 2026
 
