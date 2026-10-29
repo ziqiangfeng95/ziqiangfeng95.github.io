@@ -47,7 +47,7 @@ Location: 二教307
 
 Time: 8am-10am Tuesday; 10am-12pm Thursday
 
-Mid-term Exam: 10am-12pm Thursday, 5 November, 2026
+Mid-term Exam: 10：10am-12：10pm Thursday, 5 November, 2026
 
 Final Exam: 8:30am-10:30am Thursday, 31 December, 2026
 
