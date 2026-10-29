@@ -113,6 +113,7 @@ The homework below is all taken from the lecture notes.
 - Oct 20: Exercise 3.1: 1/2/3/6/14/16/18/S1/S5/S9.
 - Oct 22: Exercise 3.2: 1/5/6/10/14/19/S2/S3/S5/S6.
 - Oct 27: Exercise 3.3: 3/11/19/S2/S6; Exercise 3.4: 1/4/8/11/12.
+- Oct 29: Exercise 3.5: 2/5/6/12/13/14/19/S3/S5/S13.
 
 ### Things to keep in mind
 
