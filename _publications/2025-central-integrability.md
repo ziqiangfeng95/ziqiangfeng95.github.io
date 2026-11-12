@@ -4,7 +4,7 @@ date: 2025-11-02
 year: 2025
 type: "Journal article"
 authors: "Joint with [Raúl Ures](https://math.sustech.edu.cn/c/uresraul)"
-venue: "arXiv:2511.00853"
+venue: "Ergodic Theory and Dynamical Systems (2026)"
 
 links:
   -label: "DOI"
