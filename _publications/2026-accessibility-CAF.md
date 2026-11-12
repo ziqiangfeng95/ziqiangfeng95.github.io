@@ -1,4 +1,3 @@
-
 ---
 title: "Accessibility of collapsed Anosov flow"
 date: 2026-11-01
