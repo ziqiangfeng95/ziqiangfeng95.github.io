@@ -117,6 +117,7 @@ The homework below is all taken from the lecture notes.
 - Nov 3: Exercise 4.1: 2/3/4/7/8/11/15/17/S2/S12.
 - Nov 10: Exercise 4.2: 5/7/10/11/S1/S6/S10; Exercise 4.3: 2/3//6.
 - Nov 12: Exercise 4.3: 10/11/14/17/S1/S10. Exercise 4.4: 5/9/10/S2.
+- Nov 17: Exercise 4.5: 1/4/7/10/15/16/S12. Exercise 4.6: 2/13/18.
 
 ### Things to keep in mind
 
